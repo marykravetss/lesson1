@@ -1,10 +1,25 @@
 #headline{
     text-align: center;
 }
+
 .container{
+
     display: flex;
 }
 
 .ending{
     text-align: center;
 }
+.basic{
+    margin-right: 5%;
+}
+
+.infomation{
+   width: 10%;
+    margin-left: 5%;
+}
+
+ol,ul,p{
+    font-size: 25px;
+}
+
