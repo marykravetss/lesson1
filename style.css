@@ -1,22 +1,29 @@
 #headline{
     text-align: center;
+    color: gold;
+    background-color: darkolivegreen;
 }
 
 .container{
-
     display: flex;
 }
 
 .ending{
     text-align: center;
+    color: gold;
+    background-color: darkolivegreen;
+    margin-top: 0;
 }
 .basic{
-    margin-right: 5%;
+    background-color: lavenderblush;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 .infomation{
-   width: 10%;
-    margin-left: 5%;
+   background-color: lavender;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 ol,ul,p{
