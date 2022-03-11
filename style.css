@@ -1,3 +1,10 @@
-h1{
-    color: blue;
+#headline{
+    text-align: center;
+}
+.container{
+    display: flex;
+}
+
+.ending{
+    text-align: center;
 }
